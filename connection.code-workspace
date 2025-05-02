@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "Contact"
+		},
+		{
+			"path": "eco-frindly"
+		},
+		{
+			"path": "Homie landing page"
+		},
+		{
+			"path": "Homie solution page 2"
+		},
+		{
+			"path": "Products"
+		},
+		{
+			"path": "team"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Homie landing page"
+	}
+}
